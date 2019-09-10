@@ -1,0 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import Template from './src/components/presentationals/Template.jsx';
+
+ReactDOM.render(<Template />, document.getElementById('root'));
